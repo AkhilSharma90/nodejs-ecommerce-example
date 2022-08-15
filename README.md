@@ -1,5 +1,7 @@
 # Node.js E-Commerce API 
 
+Author - Akhil Sharma
+
 1. If you have an issue with nodemon -
 Install nodemon in your project by `npm i nodemon`  
 It sometimes won't work because npm won't be at sudo
